@@ -1,7 +1,7 @@
 from cassiopeia import riotapi
 from operator import attrgetter, itemgetter
 
-api_key = "FIND-ME-BITCH"
+api_key = "FIND-ME"
 
 riotapi.set_region("EUW")
 riotapi.set_api_key(api_key)
